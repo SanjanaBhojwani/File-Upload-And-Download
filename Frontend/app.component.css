@@ -1,0 +1,27 @@
+.heading{
+    width: 100%;
+    background-color: aqua;
+    margin: 10px;
+}
+
+
+.upload{
+    margin-left: 20px;
+    font-size: medium;
+    
+}
+
+.form{
+    width: 100%;
+    height: 30px;
+    background-color: aquamarine;
+
+}
+.getDATA{
+    width: 100%;
+}
+
+.dwButton{
+    font-size: 10px;
+    
+}
